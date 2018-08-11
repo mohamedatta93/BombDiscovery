@@ -1,0 +1,1 @@
+C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\BombDiscovery.WindowsPhone.csproj;arm

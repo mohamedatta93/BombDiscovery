@@ -1,0 +1,1 @@
+C:\Users\mohamedfci\Documents\Visual Studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\AppPackages\BombDiscovery.WindowsPhone_1.0.0.0_AnyCPU_Debug_Test\BombDiscovery.WindowsPhone_1.0.0.0_AnyCPU_Debug.appx

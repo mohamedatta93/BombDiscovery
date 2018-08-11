@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MOHAMED</Machine>
+    <WindowsUser>mohamedfci</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>35082a64-c349-4d44-86da-35670f948d29</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\bin\x86\Debug\BombDiscovery.Windows.exe">
+      <PackagePath>BombDiscovery.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\bin\x86\Debug\HowPlay.xbf">
+      <PackagePath>HowPlay.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\bin\x86\Debug\Levels.xbf">
+      <PackagePath>Levels.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\bin\x86\Debug\NewGame.xbf">
+      <PackagePath>NewGame.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\bin\x86\Debug\BombDiscovery.Windows.xr.xml">
+      <PackagePath>BombDiscovery.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

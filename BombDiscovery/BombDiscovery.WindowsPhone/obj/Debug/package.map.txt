@@ -1,0 +1,13 @@
+[Files]
+"C:\Users\mohamedfci\Documents\Visual Studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\bin\Debug\AppxManifest.xml" "AppxManifest.xml"
+"C:\Users\mohamedfci\Documents\Visual Studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\bin\Debug\BombDiscovery.WindowsPhone.exe" "BombDiscovery.WindowsPhone.exe"
+"C:\Users\mohamedfci\Documents\Visual Studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\Assets\Logo.scale-240.png" "Assets\Logo.scale-240.png"
+"C:\Users\mohamedfci\Documents\Visual Studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\Assets\SmallLogo.scale-240.png" "Assets\SmallLogo.scale-240.png"
+"C:\Users\mohamedfci\Documents\Visual Studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\Assets\SplashScreen.scale-240.png" "Assets\SplashScreen.scale-240.png"
+"C:\Users\mohamedfci\Documents\Visual Studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\Assets\Square71x71Logo.scale-240.png" "Assets\Square71x71Logo.scale-240.png"
+"C:\Users\mohamedfci\Documents\Visual Studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\Assets\StoreLogo.scale-240.png" "Assets\StoreLogo.scale-240.png"
+"C:\Users\mohamedfci\Documents\Visual Studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\Assets\WideLogo.scale-240.png" "Assets\WideLogo.scale-240.png"
+"C:\Users\mohamedfci\Documents\Visual Studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\bin\Debug\App.xbf" "App.xbf"
+"C:\Users\mohamedfci\Documents\Visual Studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\bin\Debug\MainPage.xbf" "MainPage.xbf"
+"C:\Users\mohamedfci\Documents\Visual Studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\bin\Debug\BombDiscovery.WindowsPhone.xr.xml" "BombDiscovery.WindowsPhone.xr.xml"
+"C:\Users\mohamedfci\Documents\Visual Studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\bin\Debug\resources.pri" "resources.pri"

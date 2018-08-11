@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MOHAMED</Machine>
+    <WindowsUser>mohamedfci</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>35082a64-c349-4d44-86da-35670f948d29</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>991045EC82D9180099BA53B4F9239781D61E20134BA63E096D748039550F8BF2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>35082a64-c349-4d44-86da-35670f948d29_1.0.0.0_neutral__whb0j63aad09a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>35082a64-c349-4d44-86da-35670f948d29_whb0j63aad09a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>35082a64-c349-4d44-86da-35670f948d29</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=mohamedfci</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-01T11:38:39.309</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\bin\Debug\BombDiscovery.Windows.exe">
+      <PackagePath>BombDiscovery.Windows.exe</PackagePath>
+      <Modified>2014-11-01T11:42:12.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-26T22:30:35.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\bin\Debug\Levels.xbf">
+      <PackagePath>Levels.xbf</PackagePath>
+      <Modified>2014-10-29T14:26:48.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-01T11:38:38.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\bin\Debug\NewGame.xbf">
+      <PackagePath>NewGame.xbf</PackagePath>
+      <Modified>2014-11-01T11:38:38.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\bin\Debug\BombDiscovery.Windows.xr.xml">
+      <PackagePath>BombDiscovery.Windows.xr.xml</PackagePath>
+      <Modified>2014-11-01T11:38:38.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-01T11:38:39.175</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

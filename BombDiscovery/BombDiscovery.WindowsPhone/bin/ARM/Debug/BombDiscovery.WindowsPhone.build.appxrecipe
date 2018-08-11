@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MOHAMED</Machine>
+    <WindowsUser>mohamedfci</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>573187e5-48de-40ef-a8cc-c92d1c503da1</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\obj\ARM\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\bin\ARM\Debug\BombDiscovery.WindowsPhone.exe">
+      <PackagePath>BombDiscovery.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\bin\ARM\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\bin\ARM\Debug\Common\NewGame.xbf">
+      <PackagePath>Common\NewGame.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\bin\ARM\Debug\Game.xbf">
+      <PackagePath>Game.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\bin\ARM\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\bin\ARM\Debug\BombDiscovery.WindowsPhone.xr.xml">
+      <PackagePath>BombDiscovery.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamedfci\documents\visual studio 2013\Projects\BombDiscovery\BombDiscovery\BombDiscovery.WindowsPhone\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
